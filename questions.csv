@@ -1,14 +1,11 @@
 question,option1,option2,option3,option4,answer,image
 A 45-year-old man presents with crushing chest pain radiating to his left arm. ECG shows ST elevation in V1-V4. What is the most likely diagnosis?,Inferior MI,Lateral MI,Anterior MI,Posterior MI,Anterior MI,https://raw.githubusercontent.com/saadancode/med-quiz/main/image_2025-10-07_194233801.png
-Which enzyme is deficient in classic galactosemia?,Galactokinase,GALT,UDP-glucose pyrophosphorylase,Lactase,GALT
-A 60-year-old smoker presents with hematuria. Imaging shows a mass in the renal pelvis. Most likely diagnosis?,Renal cell carcinoma,Transitional cell carcinoma,Wilms tumor,Bladder cancer,Transitional cell carcinoma
-Which cranial nerve is affected in Bell's palsy?,CN V,CN VII,CN IX,CN X,CN VII
-A patient presents with jaundice, dark urine, and pale stools. Labs show elevated direct bilirubin. What type of jaundice is this?,Pre-hepatic,Hepatic,Post-hepatic,Physiologic,Post-hepatic
-Which vitamin deficiency causes night blindness?,Vitamin A,Vitamin B12,Vitamin D,Vitamin K,Vitamin A
-A 25-year-old presents with sudden-onset right lower quadrant abdominal pain. Ultrasound shows an enlarged appendix. Next best step?,CT scan,Appendectomy,Antibiotics,Observation,Appendectomy
-Which heart murmur is heard best at the apex and radiates to the axilla?,Aortic stenosis,Mitral regurgitation,Tricuspid regurgitation,Pulmonic stenosis,Mitral regurgitation
-A 70-year-old man presents with progressive difficulty initiating movement, resting tremor, and shuffling gait. Most likely diagnosis?,Alzheimer’s,Parkinson’s,Huntington’s,Essential tremor,Parkinson’s
-Which of the following is the primary neurotransmitter at the neuromuscular junction?,Dopamine,Acetylcholine,GABA,Glutamate,Acetylcholine
-
-
-
+Which enzyme is deficient in classic galactosemia?,Galactokinase,GALT,UDP-glucose pyrophosphorylase,Lactase,GALT,
+A 60-year-old smoker presents with hematuria. Imaging shows a mass in the renal pelvis. Most likely diagnosis?,Renal cell carcinoma,Transitional cell carcinoma,Wilms tumor,Bladder cancer,Transitional cell carcinoma,
+Which cranial nerve is affected in Bell's palsy?,CN V,CN VII,CN IX,CN X,CN VII,
+A patient presents with jaundice, dark urine, and pale stools. Labs show elevated direct bilirubin. What type of jaundice is this?,Pre-hepatic,Hepatic,Post-hepatic,Physiologic,Post-hepatic,
+Which vitamin deficiency causes night blindness?,Vitamin A,Vitamin B12,Vitamin D,Vitamin K,Vitamin A,
+A 25-year-old presents with sudden-onset right lower quadrant abdominal pain. Ultrasound shows an enlarged appendix. Next best step?,CT scan,Appendectomy,Antibiotics,Observation,Appendectomy,
+Which heart murmur is heard best at the apex and radiates to the axilla?,Aortic stenosis,Mitral regurgitation,Tricuspid regurgitation,Pulmonic stenosis,Mitral regurgitation,
+A 70-year-old man presents with progressive difficulty initiating movement, resting tremor, and shuffling gait. Most likely diagnosis?,Alzheimer’s,Parkinson’s,Huntington’s,Essential tremor,Parkinson’s,
+Which of the following is the primary neurotransmitter at the neuromuscular junction?,Dopamine,Acetylcholine,GABA,Glutamate,Acetylcholine,
